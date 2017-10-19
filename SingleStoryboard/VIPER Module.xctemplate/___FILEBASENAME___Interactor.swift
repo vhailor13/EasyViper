@@ -6,6 +6,6 @@
 //___COPYRIGHT___
 //
 
-class ___FILEBASENAME___Interactor: ___FILEBASENAME___InteractorProtocol {
+class ___FILEBASENAME___: ___FILEBASENAME___Protocol {
     
 }

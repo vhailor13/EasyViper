@@ -6,11 +6,11 @@
 //___COPYRIGHT___
 //
 
-class ___FILEBASENAME___Router: ___FILEBASENAME___RouterProtocol {
+class ___FILEBASENAME___: ___FILEBASENAME___Protocol {
 
-	private weak var view: ___FILEBASENAME___View?
+	private weak var view:___VARIABLE_moduleName___View?
         
-    init(view: ___FILEBASENAME___View) {
+    init(view: ___VARIABLE_moduleName___View) {
         self.view = view
     }   
 }

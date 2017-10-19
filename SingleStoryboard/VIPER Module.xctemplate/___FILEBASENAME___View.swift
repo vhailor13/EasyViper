@@ -8,8 +8,8 @@
 
 import UIKit
 
-class ___FILEBASENAME___View: UIViewController, ___FILEBASENAME___ViewProtocol {
-    var presenter: ___FILEBASENAME___PresenterProtocol?
+class ___FILEBASENAME___: UIViewController, ___FILEBASENAME___Protocol {
+    var presenter: ___VARIABLE_moduleName___PresenterProtocol?
     
     override func viewDidLoad() {
         super.viewDidLoad()
